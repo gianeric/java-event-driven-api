@@ -1,6 +1,5 @@
 # Java Event-Driven API
-
-Backend application developed to study **event-driven architecture**, **RabbitMQ producers and consumers**, and data persistence using **MongoDB and SQL Server**.
+Backend application built with Java and Spring Boot to study **event-driven architecture**, **RabbitMQ producers and consumers**, and data persistence using **MongoDB and SQL Server**.
 
 The project demonstrates how a Spring Boot application can publish and consume messages through RabbitMQ and persist orders in both NoSQL and relational databases.
 

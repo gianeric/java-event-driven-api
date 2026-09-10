@@ -1,4 +1,4 @@
-# API-ServiceRabbit-java
+# Java Event-Driven API
 Study of producers and consumers using queues in RabbitMQ
 Study of insert orders in mongodb local
 
